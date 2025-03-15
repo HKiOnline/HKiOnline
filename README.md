@@ -1,6 +1,6 @@
 # Hi there 👋
 
-This is my private github profile. Much of day-to-day professional development work will not show up here and many of my private hobby work is not public. Not at the moment at least. 
+This is my private github profile. Much of my day-to-day professional development work will not show up here and many of my private hobby work is not public. Not at the moment at least. 
 
 - 🔭 I’m currently working on my own web publishing platform. It's my version of TODO-apps.
 - 🌱 I’m currently learning Go, Zig, Neovim and everything related to them.
